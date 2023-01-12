@@ -1,0 +1,10 @@
+﻿The Number After Increment is 1
+The Number After Increment is 2
+The Number After Increment is 3
+The Number After Increment is 4
+The Number After Increment is 5
+Increment From Do While Loop 0
+Increment From Do While Loop 1
+Increment From Do While Loop 2
+Increment From Do While Loop 3
+Increment From Do While Loop 4
